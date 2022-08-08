@@ -21,6 +21,12 @@ The entire activity of fetching data from Kaggle to S3 has been broken down as d
 * Step 5: Kaggle Dataset download
 * Step 6: File uploads to AWS S3 using Boto3
 
+###sep A : Install python3
+
+```
+sudo apt install python3
+
+
 ### Step 1: Installation of Kaggle CLI
 
 ```
